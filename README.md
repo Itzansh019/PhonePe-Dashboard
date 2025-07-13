@@ -50,7 +50,8 @@ Dataset Source:
 
 ## Dashboard :
 ![phone pe dashboard_pages-to-jpg-0001](https://github.com/user-attachments/assets/970b7c50-7b81-4d77-9bc5-baef103606c2)
-![phone pe dashboard_pages-to-jpg-0002](https://github.com/user-attachments/assets/fc69d941-1f62-40f6-9450-b0f126652570)
+![phone pe dashboard_page-0002](https://github.com/user-attachments/assets/ef673dce-76ad-4b8b-9848-62216583d4c7)
+
 
 📌 Future Enhancements
 - Add geo-mapping visualizations for better spatial representation.
