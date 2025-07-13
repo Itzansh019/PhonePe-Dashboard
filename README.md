@@ -42,12 +42,15 @@ Dataset Source:
 - Peer-to-Peer and Merchant Payments accounted for the highest transaction shares.
 - Exponential growth in digital payments observed year-over-year.
 
-
 🛠 Tools & Technologies
 - Power BI	->  Data modeling & dashboard
 - Power Query-> 	Data cleaning & transformation
 - DAX	 ->      Calculated measures & columns
 - Kaggle->   	Data source
+
+## Dashboard :
+![phone pe dashboard_pages-to-jpg-0001](https://github.com/user-attachments/assets/970b7c50-7b81-4d77-9bc5-baef103606c2)
+![phone pe dashboard_pages-to-jpg-0002](https://github.com/user-attachments/assets/fc69d941-1f62-40f6-9450-b0f126652570)
 
 📌 Future Enhancements
 - Add geo-mapping visualizations for better spatial representation.
